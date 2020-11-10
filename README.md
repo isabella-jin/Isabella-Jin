@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/isabella-jin/" target="_blank" rel="noopener noreferrer">
-        <img src="./images/linkedin.png" width=25px height=25px>
+        <img src="https://raw.githubusercontent.com/isabella-jin/Isabella-Jin/main/Linkedin.png" width=25px height=25px>
     </a>
 </p>
 
